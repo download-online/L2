@@ -1,0 +1,3 @@
+Main-Class: ru.jaba.lab.Lab
+Class-Path: ../../libs/Pokemon.jar
+
